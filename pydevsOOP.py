@@ -27,7 +27,7 @@ class Women(Humans):
 #         super()._init_(name, race, gender, age)
 
 
-human1 = Humans('Maggie', 'Black', 'Female', 25)
+human1 = Humans('Maggie', 'Black', 'Female', 55)
 human2 = Women('Sylvia', 'Caucasian',380)
 # human3 = Men('Ben', 'British', 'Male', 40, '6feet')
 print(human1.description())
